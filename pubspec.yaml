@@ -1,0 +1,25 @@
+name: fpkit
+description: >-
+  Ultimate functional programming toolkit for Dart 3+ & Flutter.
+  Option, Either, Result, Validation, IO, Task, TaskEither, Reader, Writer,
+  State, function combinators and immutable helpers. A modern successor to
+  dartz / fpdart built on sealed classes and pattern matching.
+version: 0.1.0
+repository: https://example.com/fpkit
+issue_tracker: https://example.com/fpkit/issues
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+
+dev_dependencies:
+  test: ^1.25.0
+  lints: ^5.0.0
+
+topics:
+  - functional
+  - fp
+  - monad
+  - either
+  - option
