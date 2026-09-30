@@ -5,8 +5,9 @@ description: >-
   State, function combinators and immutable helpers. A modern successor to
   dartz / fpdart built on sealed classes and pattern matching.
 version: 0.1.0
-repository: https://example.com/fpkit
-issue_tracker: https://example.com/fpkit/issues
+repository: https://github.com/user97116/fpkit
+issue_tracker: https://github.com/user97116/fpkit/issues
+homepage: https://github.com/user97116/fpkit
 
 environment:
   sdk: ^3.0.0
